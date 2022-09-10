@@ -12,6 +12,7 @@ The only submitted challs were either too hard or too much crypto, so had to do 
 ## Writeup
 
 Reversing file `test` in function `main` see
+
 ![main](1.png)
 
 Each char of flag xored with another char and generated value.
