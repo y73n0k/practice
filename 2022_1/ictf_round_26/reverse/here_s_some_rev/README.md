@@ -17,6 +17,7 @@ Reversing file `test` in function `main` see
 Each char of flag xored with another char and generated value.
 
 `gen` function:
+
 ![gen](2.png)
 
 Global variable `x` in each iteration changes value.
